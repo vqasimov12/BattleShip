@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\user\source\repos\FINAL\FINAL\animations.h(325,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(11,23): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(13,23): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(15,23): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(17,23): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(19,23): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(21,23): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\FINAL\FINAL\registration.h(5,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\FINAL\FINAL\registration.h(191,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\FINAL\FINAL\registration.h(191,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\FINAL\FINAL\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\FINAL\FINAL\GAME.h(396): warning C4715: 'shoot': not all control paths return a value
+C:\Users\user\source\repos\FINAL\FINAL\registration.h(28): warning C4715: 'search_name': not all control paths return a value
+  FINAL.vcxproj -> C:\Users\user\source\repos\FINAL\x64\Debug\FINAL.exe
